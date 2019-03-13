@@ -1,0 +1,5 @@
+v0=int(input("Digite la velocidad inicial"))
+a=int(input("Digite la aceleración"))
+t=int(input("Digite el tiempo"))
+vf=v0+(a*t)
+print(vf)
